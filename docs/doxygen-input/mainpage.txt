@@ -4,7 +4,7 @@
  * @mainpage Heterogeneous-computing Interface for Portability (HIP)
  * @tableofcontents
  *
- * The HIP interface makes it very easy to port existing CUDA apps to run on AMD GPUs,
+ * The HIP interface makes it very easy to port existing CUDA apps to run on AMD GPUs, test2
  * or to develop new apps that can run on either CUDA or AMD GPUs from a common source base.
  *
  *  - HIP is very thin and has little or no performance impact over coding directly in CUDA NVCC mode.
